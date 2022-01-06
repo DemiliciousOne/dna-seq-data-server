@@ -10,4 +10,4 @@ npm install
 node index
 ```
 
-Open `http://localhost:3001/data` in your browser to see the endpoint.
+Open [http://localhost:3001/data](http://localhost:3001/data) in your browser to see the endpoint.
